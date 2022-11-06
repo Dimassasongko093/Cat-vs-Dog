@@ -1,6 +1,6 @@
 # Cat-vs-Dog
 
-Anggota
+### Anggota
 
 Dimas Yudhaputra Hemi Sasongko / 2009106093 (Ketua) \
 Elvin Pratama Nugrahanto / 2009106098 \
