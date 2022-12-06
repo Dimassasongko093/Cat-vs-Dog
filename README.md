@@ -2,11 +2,11 @@
 
 **Anggota**
 
-* Dimas Yudhaputra Hemi Sasongko / 2009106093 (Ketua) /
+* Dimas Yudhaputra Hemi Sasongko / 2009106093 (Ketua) 
   * Analisis dan Visualisasi
-* Elvin Pratama Nugrahanto / 2009106098 / 
+* Elvin Pratama Nugrahanto / 2009106098 
   * Modelling
-* Hangberki Visnu Go / 2009106088 / 
+* Hangberki Visnu Go / 2009106088 
   * Pre-processing
 
 Sumber Dataset Kaggle :
