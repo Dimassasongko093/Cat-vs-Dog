@@ -27,3 +27,6 @@ Untuk isi Repository :
 * model.ipynb
 
 Ke-4 file tersebut merupakan hasil dari pekerjaan kami.
+
+Untuk model yang telah di _save_ tidak dapat kami upload ke github.
+Untuk itu kami memberikan [link](https://drive.google.com/drive/folders/1zRGxfFM6NyGykqZFplOUR18dcYEPRFoE?usp=sharing) model yang telah kami _save_.
