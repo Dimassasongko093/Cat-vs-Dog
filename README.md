@@ -1,10 +1,13 @@
 # Cat-vs-Dog
 
-### Anggota
+**Anggota**
 
-Dimas Yudhaputra Hemi Sasongko / 2009106093 (Ketua) /Analisis dan Visualisasi\
-Elvin Pratama Nugrahanto / 2009106098 / Modelling\
-Hangberki Visnu Go / 2009106088 / Pre-processing
+* Dimas Yudhaputra Hemi Sasongko / 2009106093 (Ketua) /
+  * Analisis dan Visualisasi
+* Elvin Pratama Nugrahanto / 2009106098 / 
+  * Modelling
+* Hangberki Visnu Go / 2009106088 / 
+  * Pre-processing
 
 Sumber Dataset Kaggle :
 * [Pertama](https://www.kaggle.com/datasets/erkamk/cat-and-dog-images-dataset)
