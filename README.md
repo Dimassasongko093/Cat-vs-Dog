@@ -11,6 +11,8 @@ Pada projek akhir ini kami membuat sebuah program untuk mengklasifikasikan gamba
   * Pre-processing
 
 ## Dataset
+Dataset ini merupakan kumpulan gambar kucing dan anjing
+
 Sumber Dataset Kaggle :
 * [Pertama.](https://www.kaggle.com/datasets/erkamk/cat-and-dog-images-dataset)
 * [Kedua(Ada Penambahan Data.)](https://www.kaggle.com/datasets/tongpython/cat-and-dog?select=training_set)
