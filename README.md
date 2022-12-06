@@ -1,7 +1,8 @@
-# Projek Akhir Kecerdasan Buatan \ Cat vs Dog
+# Projek Akhir Kecerdasan Buatan Cat vs Dog
+## Deskripsi
+Pada projek akhir ini kami membuat sebuah program untuk mengklasifikasikan gambar kucing dan anjing dengan _Deep Learning_. Projek ini dibuat untuk menyelesaikan Praktikum Kecerdasan Buatan Semester Ganjil 2022.
 
-**Anggota**
-
+## Anggota
 * Dimas Yudhaputra Hemi Sasongko / 2009106093 (Ketua) 
   * Analisis dan Visualisasi
 * Elvin Pratama Nugrahanto / 2009106098 
@@ -9,12 +10,20 @@
 * Hangberki Visnu Go / 2009106088 
   * Pre-processing
 
+## Dataset
 Sumber Dataset Kaggle :
-* [Pertama](https://www.kaggle.com/datasets/erkamk/cat-and-dog-images-dataset)
-* [Kedua(Ada Penambahan Data)](https://www.kaggle.com/datasets/tongpython/cat-and-dog?select=training_set)
+* [Pertama.](https://www.kaggle.com/datasets/erkamk/cat-and-dog-images-dataset)
+* [Kedua(Ada Penambahan Data.)](https://www.kaggle.com/datasets/tongpython/cat-and-dog?select=training_set)
 
-Dataset yang telah digabung  : [Cat vs Dog](https://drive.google.com/drive/folders/1aJUNIYII7reaGJrGVJE7MPTWnIZzTWQ6?usp=sharing)
+Dataset yang telah digabung  : [Cat vs Dog.](https://drive.google.com/drive/folders/1aJUNIYII7reaGJrGVJE7MPTWnIZzTWQ6?usp=sharing)
 
 Jumlah Dataset 11028 Gambar
 
+## Repository
+Untuk isi Repository :
+* preprocessing.ipynb
+* Analisi.ipynb
+* Visualisation.ipynb
+* model.ipynb
 
+Ke-4 file tersebut merupakan hasil dari pekerjaan kami.
