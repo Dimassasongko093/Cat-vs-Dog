@@ -24,7 +24,7 @@ Jumlah Dataset 11028 Gambar
 ## Repository
 Untuk isi Repository :
 * preprocessing.ipynb
-* Analisi.ipynb
+* Analisis.ipynb
 * Visualisation.ipynb
 * model.ipynb
 
